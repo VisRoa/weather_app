@@ -11,8 +11,8 @@ body{
     background: #DDA0DD;
     color: #282928;
     justify-content: center;
-    grid-gap: 1em;
-    font-size: 20px;
+    grid-gap: 1.2em;
+    font-size: 19px;
     font-family: 'Oswald', sans-serif;
 }
 
