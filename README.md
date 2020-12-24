@@ -1,5 +1,5 @@
 # weather_app
-# Weather-Journal App Project
+# Weather-Journal App Project the 3rd project of the front-end nano degree program
 
 ## Overview
 This project requires you to create an asynchronous web app that uses Web API and user data to dynamically update the UI. 
